@@ -1,0 +1,8 @@
+selenium
+pandas
+python-dotenv
+sqlalchemy
+PyMySQL
+
+
+
